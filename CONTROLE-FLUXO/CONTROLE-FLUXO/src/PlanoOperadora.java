@@ -14,7 +14,7 @@ public class PlanoOperadora {
         }*/
 
         String plano ="B"; // M/B
-        //sem o uso do break ficaria diferente de um sistema de fluxo convencional
+        //sem o uso do break ficaria diferente de um sistema de fluxo condicional convencional
         switch(plano){
             case "T": {
                 System.out.println("5GB Youtube");
